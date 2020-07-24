@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5887A719-EC1E-4925-A479-DA6ACBFC1F71}|Default">
+  <MonoDevelop.Ide.ItemProperties.csharp-web-scraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Builders/ScrapeCriteriaPartBuilder.cs" Line="26" Column="10" />
+      <File FileName="Program.cs" Line="37" Column="1" />
+      <File FileName="Workers/Scraper.cs" Line="17" Column="48" />
+      <File FileName="Data/ScrapeCriteria.cs" Line="1" Column="1" />
+      <File FileName="Builders/ScrapeCriteriaBuilder.cs" Line="21" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharp-web-scraper" expanded="True">
+            <Node name="csharp-web-scraper" expanded="True">
+              <Node name="Builders" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Workers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
